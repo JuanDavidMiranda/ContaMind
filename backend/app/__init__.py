@@ -1,0 +1,1 @@
+"""ContaMind AI backend."""
